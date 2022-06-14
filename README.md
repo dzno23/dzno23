@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Thiago Henrique @dzno23
-- 👀 I’m interested in Python web applications. 🐍
-- 🌱 I’m currently learning Python basics. 🐍
-- 💞️ I’m looking to collaborate on basic projects that i can learn more.
-- 📫 You can find me at dzno23@gmail.com
+Bem vinde ao meu repositório!
+No momento estou apenas com um repositório ativo, um projeto que pretendo construir junto com meu aprendizado!
+Hoje meu foco é aprender 🐍 focado em Django.
+Se quiser me ajudar, deixe uma issue no meu projeto! Vai ser muito legal e construtivo.
 
 <!---
 dzno23/dzno23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
