@@ -1,6 +1,6 @@
 Bem vinde ao meu repositório!
 No momento estou apenas com um repositório ativo, um projeto que pretendo construir junto com meu aprendizado!
-Hoje meu foco é aprender 🐍 focado em Django.
+Hoje meu foco é aprender Python 🐍 focado em Django.
 Se quiser me ajudar, deixe uma issue no meu projeto! Vai ser muito legal e construtivo.
 
 <!---
